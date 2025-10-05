@@ -31,8 +31,11 @@
 ### **Concepts**
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF6F61?style=plastic)
 ![DSA](https://img.shields.io/badge/DSA-4CAF50?style=plastic)
-![Algorithms](https://img.shields.io/badge/Algorithms-008080?style=plastic)
 ![OOP](https://img.shields.io/badge/OOP-6A5ACD?style=plastic)
+![Web Dev Basics](https://img.shields.io/badge/Web_Dev_Basics-F08080?style=plastic)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-008B8B?style=plastic)
+![Software Development Strategies](https://img.shields.io/badge/Software_Dev_Strategies-9C27B0?style=plastic)
+
 
 ---
 
@@ -48,8 +51,8 @@
 <!-- ================= GitHub Stats ================= -->
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smakhijani2006&show_icons=true&theme=dark&hide_border=true" alt="Sahil's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smakhijani2006&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MakhijaniSahil&show_icons=true&theme=dark&hide_border=true" alt="Sahil's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakhijaniSahil&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
